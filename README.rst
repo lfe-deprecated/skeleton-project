@@ -2,7 +2,7 @@
 LFE Skeleton Project
 ####################
 
-*UPDATE*: This script has been deprecated. Please use `lfetool`` instead!
+**UPDATE**: This script has been deprecated. Please use `lfetool`_ instead!
 
 This should really be converted into a `rebar`_ script sooner than later.
 Perhaps someone else will have the time and rebar chops to do it? For now,
