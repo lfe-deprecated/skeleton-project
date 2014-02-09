@@ -2,6 +2,7 @@
 LFE Skeleton Project
 ####################
 
+*UPDATE*: This script has been deprecated. Please use `lfetool`` instead!
 
 This should really be converted into a `rebar`_ script sooner than later.
 Perhaps someone else will have the time and rebar chops to do it? For now,
@@ -54,6 +55,7 @@ skeleton, but also:
 
 .. Links
 .. -----
+.. _lfetool:https://github.com/lfe/lfetool
 .. _rebar: https://github.com/rebar/rebar
 .. _shell script: https://raw.github.com/lfe/skeleton-project/master/lfe-skel
 
