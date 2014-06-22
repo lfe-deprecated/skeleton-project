@@ -36,7 +36,7 @@ rebarconfig=$( cat <<ENDCONFIG
    {lfeunit, ".*", {git, "git://github.com/lfe/lfeunit.git",  "master"}},
    {'lfe-sample-rebar-plugin',
      ".*",
-     {git, "git://github.com/oubiwann/lfe-sample-rebar-plugin.git",
+     {git, "git://github.com/lfex/lfe-sample-rebar-plugin.git",
        "master"}}
   ]}.
 ENDCONFIG)
