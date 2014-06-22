@@ -57,5 +57,5 @@ skeleton, but also:
 .. -----
 .. _lfetool: https://github.com/lfe/lfetool
 .. _rebar: https://github.com/rebar/rebar
-.. _shell script: https://raw.github.com/lfe/skeleton-project/master/lfe-skel
+.. _shell script: https://raw.github.com/lfex/skeleton-project/master/lfe-skel
 
